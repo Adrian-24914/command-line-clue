@@ -1,8 +1,8 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Banker
-- [ ] The Journalist
+- [X] The Banker
+- [X] The Journalist
 - [ ] The Chef
 
 ## Weapons
