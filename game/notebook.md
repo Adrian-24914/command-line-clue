@@ -1,9 +1,10 @@
 # Detective's Notebook
 
 ## Suspects
-- [X] The Banker
+
+- [ ] The Banker
 - [X] The Journalist
-- [ ] The Chef
+- [X] The Chef
 
 ## Weapons
 - [ ] Paint Brush
